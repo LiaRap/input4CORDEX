@@ -1,5 +1,6 @@
 # input4CORDEX
 Example codes to create 3hourly forcing files for ORCHIDEE starting from CORDEX dataset contained in /bdd/CORDEX/output/ (CMIP5). Each year takes ~5 minutes.
+Example code to run them with sbatch (run-DMI-HIRHAM5_MOHC-HadGEM2-ES.sh).
 
 The forcing files are stored in /modfs/project/input4CORDEX/output/
 
