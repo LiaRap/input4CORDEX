@@ -1,5 +1,5 @@
 # input4CORDEX
-Example codes to create forcing files 3hourly for ORCHIDEE starting from CORDEX dataset contained in /bdd/CORDEX/output/ (CMIP5). Each year takes less than 5 minutes.
+Example codes to create 3hourly forcing files for ORCHIDEE starting from CORDEX dataset contained in /bdd/CORDEX/output/ (CMIP5). Each year takes ~5 minutes.
 
 The forcing files are stored in /modfs/project/input4CORDEX/output/
 
@@ -38,5 +38,5 @@ WRF_CALENDAR = 360d (or whatever the calendar is) after the line GRID_FILE = gri
 
 -averaged variables (rsds, rlds, pr) and instantaneus variables (the others) are associated to different timesteps, so that the "time part" (HH_1s ecc) in the name of the input file is different between these two groups. Please check that these values correspond to the name of your files, if not, modify accordingly. Not all models follow the same rules.
 
--accori
+- in "variables_attrs", you have to change the calendar  ("360_day","365_day", "standard" ecc)
 
