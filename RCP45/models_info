@@ -1,0 +1,21 @@
+RCP45, 10 models:
+
+- NCC-NorESM1-M/DMI-HIRHAM5 (r1i1p1) rotated, 365_day
+
+- NCC-NorESM1-M/GERICS-REMO2015 (r1i1p1) rotated, standard
+
+- CNRM-CERFACS-CNRM-CM5/KNMI-RACMO22 (r1i1p1) rotated, standard 
+
+- MOHC-HadGEM2-ES/DMI-HIRHAM5 (r1i1p1) rotated 360_day 
+
+- CNRM-CERFACS-CNRM-CM5/SMHI-RCA4  (r1i1p1) rotated, standard 
+
+- ICHEC-EC-EARTH/KNMI-RACMO22 (r1i1p1) rotated, standard 
+
+- MOHC-HadGEM2-ES/GERICS-REMO2015 (r1i1p1) rotated 360 day 
+
+- MOHC-HadGEM2-ES/KNMI-RACMO22E (r1i1p1) rotated 360 day 
+
+- IPSL-IPSL-CM5A-MR/SMHI-RCA4 (r1i1p1) rotated, 365_day
+
+- CNRM-CERFACS-CNRM-CM5/CNRM-ALADIN63 (r1i1p1) lambertian,standard
